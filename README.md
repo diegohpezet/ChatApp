@@ -12,7 +12,7 @@ This repository contains the source code required to run a multi-user group chat
 5) To start each client: python client.py or run client.exe
 6) Have fun chatting with other computers in your local network!
 
-# Pictures
+## Pictures
 
 *Client-side*
 
