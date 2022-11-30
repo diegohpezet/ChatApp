@@ -14,4 +14,6 @@ This repository contains the source code required to run a multi-user group chat
 
 # Pictures
 
+<img src="https://github.com/diegohpezet/ChatApp/blob/main/screenshots/Client-Side.PNG?raw=true" alt="Client-Side"> 
+
 This project was made for my programming studies at E.E.S.T N°4
